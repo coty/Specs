@@ -1,0 +1,2 @@
+# Specs
+My private podspecs
